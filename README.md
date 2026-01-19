@@ -17,7 +17,7 @@ Because apparently holding a phone parallel to the ground requires too much calo
    * Selfie/Statue Mode: A dedicated mode that gives you 6 seconds to pose the camera, then freezes it in place indefinitely—because apparently holding a selfie angle is considered cardio now.
 <hr></hr>
 <details>
-  <summary><h2>External wiring diagrams</h2></summary>
+  <summary><h2>Spaghetti Management (External Wiring Diagrams)</h2></summary>
   
 ### Battery:
 ![](https://mermaid.ink/img/pako:eNp1UU1PgzAY_ivNe2IZXUpZB_RgIsOPGL3ozXBp1g7IoF0qOHXbf7eAW5aot_f5Prx7WBmpgAPGONcIrYxeVwXvT4RqYzYclULLzIqdzvVgWtdmtyqFbdHj8-i79paqrlEwwfjqMH1Xh3Qk6JlYjkQ4-Sdw66U9wNkfOnb6jZfiQffSp5efkl8jd15KL0rOmyf93kunF3rm-IeAgA-FrSTwtajflA-Nso3oMex7Xw5tqRqVA3enFHaTQ66PLrQV-tWYBnhrOxezpivKE-i2UrQqq0RhRXNutkpLZZem0y1wFgwVwPfwATyIwtmCkGQxp4tgHjLCfPh0NItnYZwklM3jiAYhYUcfvoZVMmNxGNGIEOoCMUsSH5SsWmOfxocOfz1-AyY-iIE?type=png)
@@ -49,19 +49,19 @@ https://mermaid.live/edit#pako:eNp9kstqwzAQRX9FzKoGO1iSH7EW3dTtohC6STfFGxHJDxJLQ
 </details>
 <hr></hr>
 <details>
-  <summary><h2>PCB Schematics</h2></summary>
+  <summary><h2>The "Trust Me, It Works" Schematics</h2></summary>
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/a1597c18-d900-4c81-82a0-5f736e6f7ad0" />
 <img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/38abb279-5b1a-4a33-9dc9-f7baf6ae8d7d" />
 </details>
 <hr></hr>
 <details>
-  <summary><h2>PCB Layout and Render</h2></summary>
+  <summary><h2>Pretty Pictures of Expensive Sand (PCB Layout)</h2></summary>
 <img width="346" height="765" alt="image" src="https://github.com/user-attachments/assets/ac17bc1b-6d54-443e-aa5e-357d01954536" />
 <img width="1723" height="892" alt="image" src="https://github.com/user-attachments/assets/a846b01d-ea0d-4b22-bc0f-d6402903df3b" />
 </details>
 <hr></hr>
 <details>
-  <summary><h2>3D Printed Body</h2></summary>
+  <summary><h2>The "It Fits If You Push Hard Enough" Case (3D Body)</h2></summary>
 
 ### Handle:
 
@@ -114,7 +114,7 @@ https://mermaid.live/edit#pako:eNp9kstqwzAQRX9FzKoGO1iSH7EW3dTtohC6STfFGxHJDxJLQ
 </details>
 <hr></hr>
 
-## BOM
+## Financial Damage Report (Bill of Material)
 TBA
 
 ## Future Bugs... I Mean Features (Roadmap)
@@ -123,6 +123,6 @@ Things I might add if I ever get bored of it working perfectly
 - [ ] Bluetooth App Control the gimbal with a phone _(because looking at two screens is better than one)._
 - [ ] Face Tracking: If I can figure out how to run AI on this chip without it catching fire.
 
-## One Last Sarcastic Heading
+## Liability Waiver (License)
 **License:** MIT
 Feel free to steal this code, modify it, or sell it. However, if your phone falls out and breaks because you set the PID values wrong, I legally never met you.
