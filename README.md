@@ -115,6 +115,7 @@ https://mermaid.live/edit#pako:eNp9kstqwzAQRX9FzKoGO1iSH7EW3dTtohC6STfFGxHJDxJLQ
 <hr></hr>
 
 ## Financial Damage Report (Bill of Material)
+https://docs.google.com/spreadsheets/d/1aBBvSRlrgi5838ZnFZRnFuO4f2IFtYvHOy1n1r-4Mq0/edit?usp=sharing
 TBA
 
 ## Future Bugs... I Mean Features (Roadmap)
