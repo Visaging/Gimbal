@@ -13,7 +13,7 @@ Because apparently holding a phone parallel to the ground requires too much calo
 - **Native USB-C:** One cable to code it and charge it, because looking for two different cables is just too much work.
 - **3 Operation Modes:**
    * Stabilize: Standard horizon leveling and pan following.
-   * Teaching Mode: Lets you manually twist the camera to a weird angle, then waits 5 seconds to realize you aren't going to move it back, so it locks there for you.
+   * Teaching Mode: Disables the motors so you can twist the camera to any weird angle by hand. After 5 seconds of holding it there, the gimbal accepts its new reality and locks that position.
    * Selfie/Statue Mode: A dedicated mode that gives you 6 seconds to pose the camera, then freezes it in place indefinitely because apparently holding a selfie angle is considered cardio now.
 <hr></hr>
 <details>
