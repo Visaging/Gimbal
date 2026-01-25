@@ -118,8 +118,9 @@ https://mermaid.live/edit#pako:eNp9kstqwzAQRX9FzKoGO1iSH7EW3dTtohC6STfFGxHJDxJLQ
 BOM can be found in the  root older as a .csv, and is also viewable here: [Custom Gimble BOM](https://docs.google.com/spreadsheets/d/1aBBvSRlrgi5838ZnFZRnFuO4f2IFtYvHOy1n1r-4Mq0/edit?usp=sharing)
 <details>
   <summary>JLCPCB Order</summary>
-  
-<img width="1919" height="844" alt="image" src="https://github.com/user-attachments/assets/6c259940-370d-4574-9ff7-ea6ded9cf614" />
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/1dd86a5b-3838-41a9-b796-754eca07cf4b" />
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/0431b4cc-ab81-4917-828b-8005988739b8" />
 </details>
 
 ## Future Bugs... I Mean Features (Roadmap)
