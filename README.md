@@ -119,8 +119,8 @@ BOM can be found in the  root older as a .csv, and is also viewable here: [Custo
 <details>
   <summary>Lion Circuits Order</summary>
   
-<img width="1920" height="1080" alt="Screenshot 2026-02-14 194148" src="https://github.com/user-attachments/assets/c5eca8a3-60b8-4652-9779-578290e401e1" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-14 194148" src="https://github.com/user-attachments/assets/88c5b0f1-ec5c-4aeb-899c-670cf8f7c2a2" />
+<img width="1920" height="1080" alt="Final" src="https://github.com/user-attachments/assets/acb49c70-4e81-4c37-9935-334fc01589bb" />
+<img width="1920" height="1080" alt="Final" src="https://github.com/user-attachments/assets/543194db-4059-4b99-aede-18ddf5dac6b1" />
 
 </details>
 <details>
