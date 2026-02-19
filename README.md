@@ -117,10 +117,18 @@ https://mermaid.live/edit#pako:eNp9kstqwzAQRX9FzKoGO1iSH7EW3dTtohC6STfFGxHJDxJLQ
 ## Financial Damage Report (Bill of Material)
 BOM can be found in the  root older as a .csv, and is also viewable here: [Custom Gimble BOM](https://docs.google.com/spreadsheets/d/1aBBvSRlrgi5838ZnFZRnFuO4f2IFtYvHOy1n1r-4Mq0/edit?usp=sharing)
 <details>
-  <summary>Lion Circuits Order Order</summary>
+  <summary>Lion Circuits Order</summary>
   
 <img width="1920" height="1080" alt="Screenshot 2026-02-14 194148" src="https://github.com/user-attachments/assets/c5eca8a3-60b8-4652-9779-578290e401e1" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-14 194148" src="https://github.com/user-attachments/assets/88c5b0f1-ec5c-4aeb-899c-670cf8f7c2a2" />
+
+</details>
+<details>
+  <summary>JLCPCB Order</summary>
+  
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a12641d3-5422-4c0a-a17e-5cdc696cc877" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/732ee6da-ca5a-4966-979d-d6e2e52a1119" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4105eba5-b7ae-4318-ba90-29e5ff51bf66" />
 
 </details>
 <details>
